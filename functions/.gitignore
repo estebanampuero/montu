@@ -1,0 +1,12 @@
+# functions/.gitignore
+
+# dependencies
+/node_modules
+
+# generated files
+/lib
+
+# local env files
+.env
+.env.*
+!.env.example

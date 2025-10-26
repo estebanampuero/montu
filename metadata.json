@@ -1,0 +1,5 @@
+{
+  "name": "Montu",
+  "description": "Montu: Una aplicación para entrenadores personales para gestionar los planes de entrenamiento de sus clientes. Los entrenadores pueden crear y asignar rutinas, y los clientes pueden iniciar sesión para ver sus ejercicios personalizados con enlaces de video.",
+  "requestFramePermissions": []
+}
